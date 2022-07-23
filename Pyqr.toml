@@ -1,0 +1,21 @@
+title = "PyQr"
+
+[Info]
+
+Name = "Python Qr code's"
+
+Short-name = "PyQr"
+
+Description = "Make a Qr-code"
+
+Keywords = ['Qr-code', 'Python', "v1.0.0"]
+
+License = "MIT"
+
+[Requirments]
+
+Ram = "10 mb"
+
+Requirments = ['kittyscript']
+
+Storage = "12 kb"
